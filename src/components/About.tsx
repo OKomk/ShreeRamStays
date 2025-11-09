@@ -10,18 +10,10 @@ const About = () => {
           </h2>
           <div className="space-y-4 text-muted-foreground text-lg leading-relaxed">
             <p>
-              Welcome to Shree Ram Guest House, where tradition meets comfort. Nestled in a peaceful 
-              location, we offer a warm and authentic hospitality experience that feels like home.
+            Established in 2015, Shree Ram Guest House offers comfortable and affordable accommodation perfectly situated near Nashik Road station. 
             </p>
             <p>
-              Our guest house features well-appointed rooms with modern amenities, ensuring your stay 
-              is both comfortable and memorable. Whether you're traveling for business or leisure, 
-              we strive to make every moment of your visit special.
-            </p>
-            <p>
-              With years of experience in hospitality, we take pride in providing personalized service, 
-              maintaining cleanliness, and creating a welcoming atmosphere for all our guests. 
-              Your comfort and satisfaction are our top priorities.
+            Our convenient location and warm hospitality make us the ideal choice for travelers looking for a pleasant stay in Nashik.
             </p>
           </div>
         </Card>

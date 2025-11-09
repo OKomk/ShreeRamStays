@@ -1,12 +1,12 @@
-import room1 from "@/assets/room-1.jpg";
-import outdoorArea from "@/assets/outdoor-area.jpg";
-import diningArea from "@/assets/dining-area.jpg";
+import room1 from "@/assets/room1.jpg";
+import room2 from "@/assets/room2.jpg";
+import room3 from "@/assets/room3.avif";
 
 const Gallery = () => {
   const images = [
-    { src: room1, alt: "Comfortable Guest Room" },
-    { src: outdoorArea, alt: "Peaceful Outdoor Area" },
-    { src: diningArea, alt: "Welcoming Dining Area" },
+    { src: room1, alt: "Beautiful Room" },
+    { src: room2, alt: "Clean Living" },
+    { src: room3, alt: "Affordable Price" },
   ];
 
   return (

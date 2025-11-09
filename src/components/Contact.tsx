@@ -7,25 +7,25 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Phone",
-      details: "+91 98765 43210",
-      action: "tel:+919876543210",
+      details: "+91 9420781921",
+      action: "tel:+919420781921",
     },
     {
       icon: Mail,
       title: "Email",
-      details: "info@shreeramguesthouse.com",
-      action: "mailto:info@shreeramguesthouse.com",
+      details: "info@shreeramhotels.in",
+      action: "mailto:info@shreeramhotels.in",
     },
     {
       icon: MapPin,
       title: "Address",
-      details: "Near Main Market, City Center",
+      details: "Rajendra Apartment, Scheme No 1, Shastri Path, Nashik Road, Nashik - 422101\n",
       action: null,
     },
     {
       icon: Clock,
       title: "Check-in Time",
-      details: "2:00 PM - 10:00 PM",
+      details: "2:00 PM - 11:00 PM",
       action: null,
     },
   ];

@@ -1,4 +1,4 @@
-import { Wifi, Coffee, Car, Shield, Wind, Utensils } from "lucide-react";
+import { Wifi, House, Car, Shield, Wind, Train } from "lucide-react";
 import { Card } from "@/components/ui/card";
 
 const Amenities = () => {
@@ -9,9 +9,9 @@ const Amenities = () => {
       description: "High-speed internet access throughout the property",
     },
     {
-      icon: Coffee,
-      title: "Complimentary Breakfast",
-      description: "Start your day with a delicious traditional breakfast",
+      icon: House,
+      title: "Vicinity to Muktidham",
+      description: "Minutes away from Muktidham Mandir",
     },
     {
       icon: Car,
@@ -29,9 +29,9 @@ const Amenities = () => {
       description: "Climate-controlled rooms for your comfort",
     },
     {
-      icon: Utensils,
-      title: "Room Service",
-      description: "Enjoy meals in the comfort of your room",
+      icon: Train,
+      title: "Near Nashik Road Station",
+      description: "Minutes away from Nashik Road station",
     },
   ];
 
